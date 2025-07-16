@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "umkm",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "Name": "ANGKRINGAN BU SIKAR", "JENISUSAHA": "MAKANAN MINUMAN", "JAMBUKA": "15.00-19.00", "FOTO": "foto/1.png" }, "geometry": { "type": "Point", "coordinates": [ 110.596386977000066, -7.717870054999935, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "Name": "APO ALPUCOK", "JENISUSAHA": "MAKANAN MINUMAN", "JAMBUKA": "08.00-17.30", "FOTO": "foto/2.png" }, "geometry": { "type": "Point", "coordinates": [ 110.598423444000048, -7.721655236999936, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "Name": "BOY MOTOR", "JENISUSAHA": "BENGKEL", "JAMBUKA": "10.00-13.00", "FOTO": "foto/3.png" }, "geometry": { "type": "Point", "coordinates": [ 110.595901832000038, -7.718863447999979, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "Name": "ES GANJA", "JENISUSAHA": "MINUMAN", "JAMBUKA": "09.00-16.30", "FOTO": "foto/4.jpg" }, "geometry": { "type": "Point", "coordinates": [ 110.595229268000082, -7.717695296999977, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "Name": "JAMU BU SUMARSIH", "JENISUSAHA": "USAHA KAKI LIMA", "JAMBUKA": "09.00-12.00", "FOTO": "foto/5.png" }, "geometry": { "type": "Point", "coordinates": [ 110.596179105000033, -7.717879357999948, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 6, "Name": "KEDAI N'A", "JENISUSAHA": "MAKANAN MINUMAN", "JAMBUKA": "09.00-23.00", "FOTO": "foto/6.png" }, "geometry": { "type": "Point", "coordinates": [ 110.59576403300008, -7.718710618999978, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 7, "Name": "MADU MURNI SEKARWANGI", "JENISUSAHA": "MINUMAN", "JAMBUKA": "05.30-20.30", "FOTO": "foto/7.png" }, "geometry": { "type": "Point", "coordinates": [ 110.598367788000076, -7.718541508999976, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 8, "Name": "PANG JATI  PAK MURDIANTO", "JENISUSAHA": "PENGRAJIN RANTING", "JAMBUKA": "08.00-15.00", "FOTO": "foto/8.png" }, "geometry": { "type": "Point", "coordinates": [ 110.595588349000082, -7.717842810999969, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 9, "Name": "PDN MULIA GAS", "JENISUSAHA": "KELONTONG", "JAMBUKA": "07.00-17.30", "FOTO": "foto/9.png" }, "geometry": { "type": "Point", "coordinates": [ 110.596279353000057, -7.719565798999952, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 10, "Name": "PUTRO TANI", "JENISUSAHA": "BAHAN PERTANIAN", "JAMBUKA": "07.30-16.30", "FOTO": "foto/10.png" }, "geometry": { "type": "Point", "coordinates": [ 110.596526451000045, -7.720781122999938, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 11, "Name": "TARI'S STEAK", "JENISUSAHA": "MAKANAN MINUMAN", "JAMBUKA": "08.00-23.00", "FOTO": "foto/11.png" }, "geometry": { "type": "Point", "coordinates": [ 110.596310534000054, -7.717957101999957, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 12, "Name": "TOKO AHAD", "JENISUSAHA": "MAKANAN MINUMAN", "JAMBUKA": "06.30-21.00", "FOTO": "foto/12.png" }, "geometry": { "type": "Point", "coordinates": [ 110.595498160000034, -7.717920887999981, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 13, "Name": "KELONTONG PDN MULIA", "JENISUSAHA": "KELONTONG", "JAMBUKA": "07.00-17.30", "FOTO": "foto/13.jpg" }, "geometry": { "type": "Point", "coordinates": [ 110.596243143000038, -7.719632910999962, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 14, "Name": "WARUNG BU ENI", "JENISUSAHA": "MAKANAN MINUMAN", "JAMBUKA": "07.00-18.00", "FOTO": "foto/14.png" }, "geometry": { "type": "Point", "coordinates": [ 110.598551184000087, -7.719960497999978, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 15, "Name": "WARUNG KETOPRAK", "JENISUSAHA": "MAKANAN MINUMAN", "JAMBUKA": "07.30-20.00", "FOTO": "foto/15.jpg" }, "geometry": { "type": "Point", "coordinates": [ 110.595058277000078, -7.716896593999934, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 16, "Name": "WARUNG MAKAN BU NINING", "JENISUSAHA": "MAKANAN MINUMAN", "JAMBUKA": "08.00-18.00", "FOTO": "foto/16.png" }, "geometry": { "type": "Point", "coordinates": [ 110.596242473000075, -7.719863815999929, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 17, "Name": "WARUNG MBAK PUTRI", "JENISUSAHA": "MAKANAN MINUMAN", "JAMBUKA": "09.00-18.00", "FOTO": "foto/17.png" }, "geometry": { "type": "Point", "coordinates": [ 110.595969893000074, -7.718701647999978, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 18, "Name": "WARUNG SUMINAH", "JENISUSAHA": "MAKANAN MINUMAN", "JAMBUKA": "05.00-22.00", "FOTO": "foto/18.jpg" }, "geometry": { "type": "Point", "coordinates": [ 110.595912896000073, -7.717932515999962, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 19, "Name": "WARUNG UDIN SAYUR", "JENISUSAHA": "KELONTONG", "JAMBUKA": "07.00-17.00", "FOTO": "foto/19.png" }, "geometry": { "type": "Point", "coordinates": [ 110.596311539000055, -7.719740888999979, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 20, "Name": "YANI PENYET", "JENISUSAHA": "MAKANAN MINUMAN", "JAMBUKA": "10.00-19.00", "FOTO": "foto/20.png" }, "geometry": { "type": "Point", "coordinates": [ 110.596567355000047, -7.717428176999931, 0.0 ] } }
+]
+}
